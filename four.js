@@ -1,1 +1,0 @@
-const four = 'zhanlgi'
